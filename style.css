@@ -204,6 +204,7 @@ footer {
 }
 
 .tel::before {
+    content: url("");
     width: 20px;
     height: 20px;
     display: inline-block;
