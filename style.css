@@ -204,7 +204,6 @@ footer {
 }
 
 .tel::before {
-    content: url("https://lms.logikaschool.com/uploads/2023/08/2245651_1692959803.svg");
     width: 20px;
     height: 20px;
     display: inline-block;
